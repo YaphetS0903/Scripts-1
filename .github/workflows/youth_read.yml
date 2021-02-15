@@ -1,12 +1,12 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# 每日早9点到晚8点每2小时运行一次
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
 name: 中青自动阅读
 
 on:
   workflow_dispatch:
   schedule:
-     - cron: '8 1-12/2 * * *'
+     - cron: '*/15 1-12/2 * * *'
   watch:
     types: started
 jobs:
