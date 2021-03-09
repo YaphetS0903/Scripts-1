@@ -11,7 +11,7 @@ if ($.isNode())
 	  
 
 
-CookieArr=[{"store":"appstore","tokenstr":"BA1895FA0065C86BD9ABEF734525263G1613994719","Connection":"keep-alive","Accept-Encoding":"gzip, deflate, br","version":"11","idfa":"45898213-188A-4055-B366-86CEDCE0D5B4","User-Agent":"BBB/133 CFNetwork/1209 Darwin/20.2.0","platform":"2","imei":"0EC01374-A9DF-4D49-ACF0-A539A479702F","Cookie":"PHPSESSID=pnddub5ur145rfnenu4ol94u65","Host":"bububao.duoshoutuan.com","Accept-Language":"zh-cn","Accept":"*/*","Content-Length":"0"}]
+CookieArr=[{"store":"appstore","tokenstr":"2B3CFB9FFADD30EA557169778533047G1615297788","Connection":"keep-alive","Accept-Encoding":"gzip, deflate, br","version":"11","idfa":"367EF1DB-102C-4E19-A94F-FF76A94DF6F6","User-Agent":"BBB/133 CFNetwork/1209 Darwin/20.2.0","platform":"2","imei":"AB52710D-300B-43BA-B703-67F754E5236D","Cookie":"PHPSESSID=dmf1ch754ssq7aa1rcmbpi0ea7","Host":"bububao.duoshoutuan.com","Accept-Language":"zh-cn","Accept":"*/*","Content-Length":"0"}]
 let dayjinbi=0;
 let lasttxTime=0;
 now = new Date(new Date().getTime() + new Date().getTimezoneOffset()*60*1000 + 8*60*60*1000);  
